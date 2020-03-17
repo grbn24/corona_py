@@ -15,3 +15,4 @@ class CoronaVirus():
         total_recoverd = data[6]
         serious_critical = data[7]
         print(total_cases)
+        # changed something
